@@ -1,6 +1,10 @@
 # Smart Maintenance Reminder
 
-An Android application developed to help individuals and companies organize and track vehicle maintenance records efficiently.
+![Smart Maintenance App](preview.jpg)
+
+An Android application developed to help individuals and companies organize and track vehicle maintenance records efficiently. The application allows users to add, update, delete, and monitor vehicle maintenance information through a simple and user-friendly interface using Firebase Realtime Database.
+
+---
 
 ## Features
 
@@ -9,9 +13,11 @@ An Android application developed to help individuals and companies organize and 
 - Firebase Realtime Database integration
 - Add, update, and delete maintenance records
 - Maintenance status tracking (Upcoming / Overdue)
-- Simple and user-friendly interface
+- User-friendly interface
 
-## Technologies
+---
+
+## Technologies Used
 
 - Java
 - Android Studio
@@ -19,20 +25,34 @@ An Android application developed to help individuals and companies organize and 
 - XML
 - Android SDK
 
-## Screens
+---
+
+## Application Screens
 
 - Splash Screen
 - User Type Selection
-- Add Vehicle
-- Cars List
+- Add Maintenance Record
+- Vehicles List
 - Vehicle Details
 - Edit Vehicle Information
 
+---
+
+## Overview
+
+The application helps users organize vehicle maintenance records, schedule upcoming maintenance, and monitor maintenance status to reduce missed services and improve vehicle management.
+
+---
+
 ## Project Type
 
-University Team Project developed as part of the Mobile Cloud Computing course.
+University Team Project developed as part of the **Mobile Cloud Computing** course.
+
+---
 
 ## Team
+
+This project was developed collaboratively by:
 
 - Raghad Alhamad
 - Lulu Almuqbil
