@@ -2,7 +2,12 @@
 
 ![Smart Maintenance App](preview.jpg)
 
-An Android application developed to help individuals and companies organize and track vehicle maintenance records efficiently. The application allows users to add, update, delete, and monitor vehicle maintenance information through a simple and user-friendly interface using Firebase Realtime Database.
+An Android application developed to help individuals and companies manage vehicle maintenance records efficiently using Firebase Realtime Database.
+
+## Project Resources
+
+- 📄 **Project Presentation:** [Smart Maintenance App Project.pdf](Smart%20Maintenance%20App%20Project.pdf)
+- 📱 **Android APK:** [app-debug.apk](app-debug.apk)
 
 ---
 
@@ -10,10 +15,10 @@ An Android application developed to help individuals and companies organize and 
 
 - Vehicle maintenance management
 - Support for Individuals and Companies
+- Add, update, edit, and delete maintenance records
 - Firebase Realtime Database integration
-- Add, update, and delete maintenance records
 - Maintenance status tracking (Upcoming / Overdue)
-- User-friendly interface
+- Simple and user-friendly interface
 
 ---
 
@@ -40,19 +45,20 @@ An Android application developed to help individuals and companies organize and 
 
 ## Overview
 
-The application helps users organize vehicle maintenance records, schedule upcoming maintenance, and monitor maintenance status to reduce missed services and improve vehicle management.
+The application helps users organize vehicle maintenance records, schedule upcoming maintenance, and keep track of maintenance status through a clean and user-friendly mobile interface.
 
 ---
 
-## Project Type
+## Project Information
 
-University Team Project developed as part of the **Mobile Cloud Computing** course.
+- **Project Type:** University Team Project
+- **Course:** Mobile Cloud Computing
 
 ---
 
 ## Team
 
-This project was developed collaboratively by:
+Developed collaboratively by:
 
 - Raghad Alhamad
 - Lulu Almuqbil
