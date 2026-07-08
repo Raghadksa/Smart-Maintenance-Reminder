@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:id="@+id/carName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Car Name" />
+
+        <EditText
+            android:id="@+id/plateNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Plate Number" />
+
+        <Spinner
+            android:id="@+id/fuelType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/kilometers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Kilometers"
+            android:inputType="number" />
+
+        <Spinner
+            android:id="@+id/maintenanceType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/lastMaintenance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Last Maintenance Date"
+            android:focusable="false"
+            android:clickable="true" />
+
+        <EditText
+            android:id="@+id/nextMaintenance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Next Maintenance Date"
+            android:focusable="false"
+            android:clickable="true" />
+
+        <EditText
+            android:id="@+id/driverName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Driver Name" />
+
+        <EditText
+            android:id="@+id/cost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Cost"
+            android:inputType="numberDecimal" />
+
+        <Switch
+            android:id="@+id/notificationSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enable Notifications" />
+
+        <EditText
+            android:id="@+id/notes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Notes"
+            android:minLines="3" />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SAVE" />
+
+    </LinearLayout>
+
+</ScrollView>

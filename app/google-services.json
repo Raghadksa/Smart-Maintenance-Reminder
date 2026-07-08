@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990256800476",
+    "project_id": "smartmaintenance-51c7c",
+    "storage_bucket": "smartmaintenance-51c7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990256800476:android:ab4cab917b359122df0a19",
+        "android_client_info": {
+          "package_name": "com.sara.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jrAlE15TFHLPfy4ugRykqzONF80xqdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
